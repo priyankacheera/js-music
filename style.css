@@ -1,0 +1,36 @@
+
+img{
+    margin: 40px;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    
+}
+#images{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+body{
+    
+    background-image: url(./assets/musicdance.jpg);
+     background-size: cover;
+}
+h1{
+    color: rgb(244, 239, 235);
+}
+#para{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-evenly;
+    margin-left: 20px; */
+    
+    /* margin-bottom: 50px; */
+}
+p{
+    margin: 0px 75px; 
+    height: 30px; 
+    color: rgb(244, 241, 243);
+    /* width: 150px;      */
+}
